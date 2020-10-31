@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_Vyan Insya Nur Muhammad_20180140096", "..\Client_Nama_NIM\Client_Vyan Insya Nur Muhammad_20180140096.csproj", "{A1D9B794-8960-4C34-BD02-7C791FC29B77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_Vyan Insya Nur Muhammad_096", "..\Client_Nama_NIM\Client_Vyan Insya Nur Muhammad_096.csproj", "{A1D9B794-8960-4C34-BD02-7C791FC29B77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_Vyan Insya Nur Muhammad_20180140096", "..\Server_Vyan Insya Nur Muhammad_20180140096\Server_Vyan Insya Nur Muhammad_20180140096.csproj", "{FD691D46-E494-4A7D-AAED-B9E72BBAE6B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_Vyan Insya Nur Muhammad_096", "..\Server_Vyan Insya Nur Muhammad_20180140096\Server_Vyan Insya Nur Muhammad_096.csproj", "{FD691D46-E494-4A7D-AAED-B9E72BBAE6B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
